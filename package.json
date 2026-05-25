@@ -1,0 +1,10 @@
+{
+  "name": "@a1local/php-adpages-tools",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Package-local checks for the dependency-free AdPages PHP tools scaffold.",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "smoke": "node scripts/smoke.mjs"
+  }
+}

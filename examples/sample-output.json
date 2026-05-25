@@ -1,0 +1,12 @@
+{
+  "utmUrl": "https://example.com/plumber-perth?existing=1&lead_type=phone&utm_campaign=emergency-plumber&utm_content=rsa-a&utm_medium=cpc&utm_source=google#quote",
+  "adCopyValid": true,
+  "adCopyViolations": 0,
+  "schemaType": "LocalBusiness",
+  "schemaAreas": [
+    "Perth",
+    "Fremantle"
+  ],
+  "checklistScore": 88,
+  "highPriorityFailures": 0
+}
